@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmers\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmers\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\data\\migrations\\20240530055105_farmerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\data\\migrations\\20240530055105_farmerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\data\\migrations\\20240527063637_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\data\\migrations\\20240527063637_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\data\\migrations\\20240528095127_famerupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\data\\migrations\\20240528095127_famerupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\data\\migrations\\20240528091917_modelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\data\\migrations\\20240528091917_modelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\views\\farmer1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\views\\farmer1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|c:\\users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\wwwroot\\css\\ustyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{635A25C5-9BD6-42BE-BB62-3E4F33404CD6}|progpoe\\progpoe.csproj|solutionrelative:progpoe\\wwwroot\\css\\ustyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T06:48:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "progpoe\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Product.cs",
+              "RelativeToolTip": "progpoe\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:15:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:59:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Create.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Create.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:15:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Delete.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:15:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Edit.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:15:15.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Index.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Index.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:15:01.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\ViewProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\ViewProducts.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\ViewProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:03:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Details.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmers\\Details.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:15:14.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "progpoe\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Farmer.cs",
+              "RelativeToolTip": "progpoe\\Models\\Farmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:15:09.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240528095127_famerUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240528095127_famerUpdate.cs",
+              "RelativeDocumentMoniker": "progpoe\\Data\\Migrations\\20240528095127_famerUpdate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240528095127_famerUpdate.cs",
+              "RelativeToolTip": "progpoe\\Data\\Migrations\\20240528095127_famerUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:38:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240528091917_ModelUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240528091917_ModelUpdate.cs",
+              "RelativeDocumentMoniker": "progpoe\\Data\\Migrations\\20240528091917_ModelUpdate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240528091917_ModelUpdate.cs",
+              "RelativeToolTip": "progpoe\\Data\\Migrations\\20240528091917_ModelUpdate.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:19:17.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "progpoe\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "progpoe\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAA4wBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:47:11.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FarmersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\FarmersController.cs",
+              "RelativeDocumentMoniker": "progpoe\\Controllers\\FarmersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\FarmersController.cs",
+              "RelativeToolTip": "progpoe\\Controllers\\FarmersController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwHcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:04:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240530055105_FarmerProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240530055105_FarmerProduct.cs",
+              "RelativeDocumentMoniker": "progpoe\\Data\\Migrations\\20240530055105_FarmerProduct.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240530055105_FarmerProduct.cs",
+              "RelativeToolTip": "progpoe\\Data\\Migrations\\20240530055105_FarmerProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:51:05.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "progpoe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "progpoe\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:29:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240527063637_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240527063637_SecondMigration.cs",
+              "RelativeDocumentMoniker": "progpoe\\Data\\Migrations\\20240527063637_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\20240527063637_SecondMigration.cs",
+              "RelativeToolTip": "progpoe\\Data\\Migrations\\20240527063637_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:15:09.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "progpoe\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "progpoe\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:52:23.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "progpoe\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Models\\Employee.cs",
+              "RelativeToolTip": "progpoe\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:48:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "progpoe\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "progpoe\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwIUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:07:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:39:01.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:05:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:12:07.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:55:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:54:31.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:53:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:16:55.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmer1\\Index.cshtml",
+              "RelativeDocumentMoniker": "progpoe\\Views\\Farmer1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Views\\Farmer1\\Index.cshtml",
+              "RelativeToolTip": "progpoe\\Views\\Farmer1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:19:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Program.cs",
+              "RelativeDocumentMoniker": "progpoe\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\Program.cs",
+              "RelativeToolTip": "progpoe\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAArwEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:05:32.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ustyle.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\wwwroot\\css\\Ustyle.css",
+              "RelativeDocumentMoniker": "progpoe\\wwwroot\\css\\Ustyle.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\progpoe\\progpoe\\wwwroot\\css\\Ustyle.css",
+              "RelativeToolTip": "progpoe\\wwwroot\\css\\Ustyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T07:59:01.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

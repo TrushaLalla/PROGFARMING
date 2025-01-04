@@ -133,7 +133,6 @@ C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\stat
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\scopedcss\bundle\progpoe.styles.css
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\scopedcss\projectbundle\progpoe.bundle.scp.css
-C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\progpoe.csproj.CopyComplete
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\progpoe.dll
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\refint\progpoe.dll
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\progpoe.pdb
@@ -270,3 +269,5 @@ C:\Users\lab_services_student\source\repos\progpoe\progpoe\bin\Debug\net8.0\runt
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lab_services_student\source\repos\progpoe\progpoe\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\progpoe.sourcelink.json
+C:\Users\lab_services_student\source\repos\progpoe\progpoe\obj\Debug\net8.0\progpoe.csproj.Up2Date
